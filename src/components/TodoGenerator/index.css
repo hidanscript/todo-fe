@@ -1,0 +1,11 @@
+.todogenerator {
+    padding:1em;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 1em;
+    max-width: 60em;
+    -webkit-box-shadow: 0px 0px 12px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 12px -5px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 12px -5px rgba(0,0,0,0.75);
+}

@@ -1,0 +1,12 @@
+.todolist {
+    display: flex;
+    flex-direction: column;
+    max-width: 60em;
+    margin: auto;
+    margin-top: 1em;
+    padding: 1em;
+}
+
+.todolist-todos {
+    border-top: 1px solid lightgray;
+}

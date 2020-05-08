@@ -1,0 +1,19 @@
+.todo {
+    border: 1px solid lightgray;
+    padding: .7em;
+    display: flex;
+    margin-top: 1em;
+    width: 100%;
+    -webkit-box-shadow: 0px 0px 12px -5px rgba(0,0,0,0.4);
+    -moz-box-shadow: 0px 0px 12px -5px rgba(0,0,0,0.4);
+    box-shadow: 0px 0px 12px -5px rgba(0,0,0,0.4);
+}
+
+.todo h3, .todo p {
+    color: black;
+    margin: 0;
+}
+
+.todo button {
+    margin-left: auto;
+}

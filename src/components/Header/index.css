@@ -1,0 +1,13 @@
+.navbar {
+    height: 5em;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+
+.navbar h2 {
+    margin: 0;
+    color: white;
+    align-self: center;
+}
